@@ -12,8 +12,7 @@ This project implements an interactive Hangman game with:
 - ASCII-art drawings for every mistake level  
 - Input validation for file path, index, and guessed letters  
 - Word selection based on an index provided by the player  
-- Automatic restart after each completed round  
-- English-only word support  
+- Automatic restart after each completed round
 
 The gameplay includes guessing letters, revealing the word progressively, and visual feedback through Hangman drawings.
 
